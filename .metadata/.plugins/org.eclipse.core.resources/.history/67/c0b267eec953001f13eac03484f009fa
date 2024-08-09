@@ -1,0 +1,5 @@
+package com.itrainu.Basic;
+
+public interface Functionalintf {
+
+}

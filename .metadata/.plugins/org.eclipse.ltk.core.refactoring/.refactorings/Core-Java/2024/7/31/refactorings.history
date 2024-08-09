@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.itrainu.CollectionProgram.Set.TreeSet.java&apos; to &apos;treeSet.java&apos;&#x0D;&#x0A;- Original project: &apos;Core-Java&apos;&#x0D;&#x0A;- Original element: &apos;com.itrainu.CollectionProgram.Set.TreeSet.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.itrainu.CollectionProgram.Set.treeSet.java&apos;" description="Rename compilation unit &apos;TreeSet.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.itrainu.CollectionProgram.Set{TreeSet.java" name="treeSet.java" references="false" stamp="1722447145049" version="1.0"/>
+</session>
