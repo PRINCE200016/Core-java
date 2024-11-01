@@ -18,7 +18,7 @@ public class PriorityQueueExample {
 
 		// Example We add String first in this program so we cannot add other data type
 		// If we add int first also we cannot add String or other data type
-		PriorityQueue q = new PriorityQueue();
+		PriorityQueue<String> q = new PriorityQueue<String>();
 
 		q.offer("One");
 		q.offer("Three");

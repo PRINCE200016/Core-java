@@ -1,23 +1,26 @@
 package Java.Basic;
 
+import java.util.Scanner;
+
 public class looppractice {
 
 	public static void main(String[] args) {
-		// int n = 4;
-		// for (int i =n; i>0; i--) {
-		// for (int j= 0; j<i; j++) {
-		// System.out.print("*");
-		// }
-		// System.out.print("\n");
+//		int row = 5;
+//		for(int  i = 1;i<=row;i++) {
+//			for(int  j = 1;j<=i;j++) {
+//			System.out.print(" *");
+//				}
+//			System.out.println();
 //	  }
 		// to sum first n even num
-	//	int sum = 0;
-		//int n = 3;
-//		for (int i = 0; i < n; i++) {
-	//		sum = sum + (2 * i);
-		//}
-//		System.out.print("Sum of even number :");
-	//	System.out.println(sum);
+//	Scanner in = new Scanner(System.in);
+//	System.out.println("Enter the value  of n: ");
+//	int  n = in.nextInt();
+//	int sum = 0;
+//	for(int i =1;i<=n;i++) {
+//		sum  = 2*i;
+//	}
+//	System.out.println("sum " + sum);
 		// to print multiplication table
 	//	int num =18;
 //		System.out.println(" multiplication table for "+ num +":");
@@ -36,13 +39,7 @@ public class looppractice {
 		//}
 		
 		//  to get 12 table
-		
-		int a = 12;
-		for (int  i= 1; i<=10; i++) {
-			System.out.println("the table of 12 : ");
-	int result = a*i;
-	System.out.println(result);
-		}
-	}
-
+	
+	
+}
 }

@@ -6,7 +6,7 @@ import java.util.Queue;
 public class QueueArrayDequeExample {
 
 	public static void main(String[] args) {
-		Queue q = new ArrayDeque();
+		Queue<Comparable> q = new ArrayDeque<Comparable>();
 
 		q.offer("adf");
 		q.offer(4);

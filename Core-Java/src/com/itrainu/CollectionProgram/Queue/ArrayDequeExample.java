@@ -7,7 +7,7 @@ public class ArrayDequeExample {
 
 	public static void main(String[] args) {
 		
-		ArrayDeque q = new ArrayDeque();
+		ArrayDeque<Integer> q = new ArrayDeque<Integer>();
 
 		// offer pool peek = addition methods
 
@@ -29,7 +29,7 @@ public class ArrayDequeExample {
 
 		//q.forEach(System.out::println);
 
-		Iterator it = q.iterator();
+		Iterator<Integer> it = q.iterator();
 
 		while (it.hasNext()) {
 

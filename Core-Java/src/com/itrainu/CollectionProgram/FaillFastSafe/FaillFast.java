@@ -8,7 +8,7 @@ import java.util.List;
 public class FaillFast {
 
 	public static void main(String[] args) {
-		List l = new ArrayList();
+		List<Integer> l = new ArrayList<Integer>();
 		
 		l.add(1);
 		l.add(55);
@@ -16,7 +16,7 @@ public class FaillFast {
 		l.add(11);
 		l.add(2);
 		
-		Iterator it = l.iterator();
+		Iterator<Integer> it = l.iterator();
 		
 		while (it.hasNext()) {
 			System.out.println(it.next());
